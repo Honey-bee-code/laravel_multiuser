@@ -1,4 +1,4 @@
-@extends('layout.app')
+@extends('layouts.app')
 
 @section('content')
 <div class="container">
@@ -6,10 +6,10 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
-                    Dashboard
+                    Dashboard Admin
                 </div>
                 <div class="card-body">
-                    Anda seorang Admin User
+                    Anda seorang Admin
                 </div>
             </div>
         </div>
